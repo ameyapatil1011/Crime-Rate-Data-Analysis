@@ -8,6 +8,7 @@ Analysis
 Histogram Analysis
 Box Plot
 Contributing
+
 Data:
 The dataset should include information about different crime incidents such as the type of crime, date, location, and other relevant attributes. Ensure that your dataset is in the correct format before running the script.
 
